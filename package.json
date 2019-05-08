@@ -1,0 +1,14 @@
+{
+  "name": "ctci-making-anagrams",
+  "version": "1.0.0",
+  "description": "Solution to HackerRank Strings: Making Anagrams challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Diego Rani Mazine",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
